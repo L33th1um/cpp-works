@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Plovstation\source\repos\someware\someware\main.cpp(26,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Plovstation\source\repos\someware\someware\main.cpp(26,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 247 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  someware.vcxproj -> C:\Users\Plovstation\source\repos\someware\x64\Release\someware.exe
